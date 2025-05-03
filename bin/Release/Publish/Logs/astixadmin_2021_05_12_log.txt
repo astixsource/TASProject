@@ -1,0 +1,861 @@
+
+Date Time :5/12/2021 11:14:19 AM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 11:14:19 AM
+file opening started.. 
+
+Date Time :5/12/2021 11:14:20 AM
+ reading excel file for datatable
+
+Date Time :5/12/2021 11:14:20 AM
+ datatable loading complete
+
+Date Time :5/12/2021 11:14:20 AM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 11:14:20 AM
+start bulkcopy process
+
+Date Time :5/12/2021 11:14:25 AM
+end bulkcopy process
+
+Date Time :5/12/2021 11:21:43 AM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 11:21:43 AM
+file opening started.. 
+
+Date Time :5/12/2021 11:21:44 AM
+ reading excel file for datatable
+
+Date Time :5/12/2021 11:21:44 AM
+ datatable loading complete
+
+Date Time :5/12/2021 11:21:44 AM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 11:21:44 AM
+start bulkcopy process
+
+Date Time :5/12/2021 11:21:50 AM
+end bulkcopy process
+
+Date Time :5/12/2021 11:30:15 AM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 11:30:15 AM
+file opening started.. 
+
+Date Time :5/12/2021 11:30:16 AM
+ reading excel file for datatable
+
+Date Time :5/12/2021 11:30:16 AM
+ datatable loading complete
+
+Date Time :5/12/2021 11:30:16 AM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 11:30:16 AM
+start bulkcopy process
+
+Date Time :5/12/2021 11:30:21 AM
+end bulkcopy process
+
+Date Time :5/12/2021 11:31:17 AM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 11:31:17 AM
+file opening started.. 
+
+Date Time :5/12/2021 11:31:18 AM
+ reading excel file for datatable
+
+Date Time :5/12/2021 11:31:19 AM
+ datatable loading complete
+
+Date Time :5/12/2021 11:31:19 AM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 11:31:19 AM
+start bulkcopy process
+
+Date Time :5/12/2021 11:31:25 AM
+end bulkcopy process
+
+Date Time :5/12/2021 11:32:39 AM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 11:32:39 AM
+file opening started.. 
+
+Date Time :5/12/2021 11:32:40 AM
+ reading excel file for datatable
+
+Date Time :5/12/2021 11:32:41 AM
+ datatable loading complete
+
+Date Time :5/12/2021 11:32:41 AM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 11:32:41 AM
+start bulkcopy process
+
+Date Time :5/12/2021 11:32:46 AM
+end bulkcopy process
+
+Date Time :5/12/2021 11:34:31 AM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 11:34:31 AM
+file opening started.. 
+
+Date Time :5/12/2021 11:34:32 AM
+ reading excel file for datatable
+
+Date Time :5/12/2021 11:34:33 AM
+ datatable loading complete
+
+Date Time :5/12/2021 11:34:33 AM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 11:34:33 AM
+start bulkcopy process
+
+Date Time :5/12/2021 11:34:40 AM
+end bulkcopy process
+
+Date Time :5/12/2021 11:38:19 AM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 11:38:19 AM
+file opening started.. 
+
+Date Time :5/12/2021 11:38:20 AM
+ reading excel file for datatable
+
+Date Time :5/12/2021 11:38:21 AM
+ datatable loading complete
+
+Date Time :5/12/2021 11:38:21 AM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 11:38:21 AM
+start bulkcopy process
+
+Date Time :5/12/2021 11:38:32 AM
+end bulkcopy process
+
+Date Time :5/12/2021 11:47:40 AM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 11:47:40 AM
+file opening started.. 
+
+Date Time :5/12/2021 11:47:41 AM
+ reading excel file for datatable
+
+Date Time :5/12/2021 11:47:42 AM
+ datatable loading complete
+
+Date Time :5/12/2021 11:47:42 AM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 11:47:42 AM
+start bulkcopy process
+
+Date Time :5/12/2021 11:47:47 AM
+end bulkcopy process
+
+Date Time :5/12/2021 11:53:30 AM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 11:53:30 AM
+file opening started.. 
+
+Date Time :5/12/2021 11:53:32 AM
+ reading excel file for datatable
+
+Date Time :5/12/2021 11:53:32 AM
+ datatable loading complete
+
+Date Time :5/12/2021 11:53:32 AM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 11:53:32 AM
+start bulkcopy process
+
+Date Time :5/12/2021 11:53:39 AM
+end bulkcopy process
+
+Date Time :5/12/2021 11:56:05 AM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 11:56:06 AM
+file opening started.. 
+
+Date Time :5/12/2021 11:56:07 AM
+ reading excel file for datatable
+
+Date Time :5/12/2021 11:56:07 AM
+ datatable loading complete
+
+Date Time :5/12/2021 11:56:07 AM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 11:56:07 AM
+start bulkcopy process
+
+Date Time :5/12/2021 11:56:11 AM
+end bulkcopy process
+
+Date Time :5/12/2021 12:00:02 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 12:00:10 PM
+file opening started.. 
+
+Date Time :5/12/2021 12:00:11 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 12:00:11 PM
+ datatable loading complete
+
+Date Time :5/12/2021 12:00:11 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 12:00:11 PM
+start bulkcopy process
+
+Date Time :5/12/2021 12:00:15 PM
+end bulkcopy process
+
+Date Time :5/12/2021 12:18:13 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 12:18:13 PM
+file opening started.. 
+
+Date Time :5/12/2021 12:18:15 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 12:18:15 PM
+ datatable loading complete
+
+Date Time :5/12/2021 12:18:15 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 12:18:15 PM
+start bulkcopy process
+
+Date Time :5/12/2021 12:18:19 PM
+end bulkcopy process
+
+Date Time :5/12/2021 12:23:07 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 12:23:07 PM
+file opening started.. 
+
+Date Time :5/12/2021 12:23:08 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 12:23:08 PM
+ datatable loading complete
+
+Date Time :5/12/2021 12:23:08 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 12:23:08 PM
+start bulkcopy process
+
+Date Time :5/12/2021 12:23:12 PM
+end bulkcopy process
+
+Date Time :5/12/2021 12:24:34 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 12:24:34 PM
+file opening started.. 
+
+Date Time :5/12/2021 12:24:35 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 12:24:35 PM
+ datatable loading complete
+
+Date Time :5/12/2021 12:24:35 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 12:24:35 PM
+start bulkcopy process
+
+Date Time :5/12/2021 12:24:39 PM
+end bulkcopy process
+
+Date Time :5/12/2021 12:25:41 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 12:25:42 PM
+file opening started.. 
+
+Date Time :5/12/2021 12:25:43 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 12:25:43 PM
+ datatable loading complete
+
+Date Time :5/12/2021 12:25:43 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 12:25:43 PM
+start bulkcopy process
+
+Date Time :5/12/2021 12:25:47 PM
+end bulkcopy process
+
+Date Time :5/12/2021 12:27:06 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 12:27:06 PM
+file opening started.. 
+
+Date Time :5/12/2021 12:27:07 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 12:27:07 PM
+ datatable loading complete
+
+Date Time :5/12/2021 12:27:07 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 12:27:07 PM
+start bulkcopy process
+
+Date Time :5/12/2021 12:27:12 PM
+end bulkcopy process
+
+Date Time :5/12/2021 12:46:18 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 12:46:18 PM
+file opening started.. 
+
+Date Time :5/12/2021 12:46:19 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 12:46:19 PM
+ datatable loading complete
+
+Date Time :5/12/2021 12:46:19 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 12:46:19 PM
+start bulkcopy process
+
+Date Time :5/12/2021 12:46:23 PM
+end bulkcopy process
+
+Date Time :5/12/2021 12:47:38 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 12:47:39 PM
+file opening started.. 
+
+Date Time :5/12/2021 12:47:40 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 12:47:40 PM
+ datatable loading complete
+
+Date Time :5/12/2021 12:47:40 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 12:47:40 PM
+start bulkcopy process
+
+Date Time :5/12/2021 12:47:43 PM
+end bulkcopy process
+
+Date Time :5/12/2021 12:48:24 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 12:48:24 PM
+file opening started.. 
+
+Date Time :5/12/2021 12:48:25 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 12:48:25 PM
+ datatable loading complete
+
+Date Time :5/12/2021 12:48:25 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 12:48:25 PM
+start bulkcopy process
+
+Date Time :5/12/2021 12:48:29 PM
+end bulkcopy process
+
+Date Time :5/12/2021 12:50:07 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 12:50:07 PM
+file opening started.. 
+
+Date Time :5/12/2021 12:50:08 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 12:50:09 PM
+ datatable loading complete
+
+Date Time :5/12/2021 12:50:09 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 12:50:09 PM
+start bulkcopy process
+
+Date Time :5/12/2021 12:50:13 PM
+end bulkcopy process
+
+Date Time :5/12/2021 12:52:42 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 12:52:43 PM
+file opening started.. 
+
+Date Time :5/12/2021 12:52:44 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 12:52:45 PM
+ datatable loading complete
+
+Date Time :5/12/2021 12:52:45 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 12:52:45 PM
+start bulkcopy process
+
+Date Time :5/12/2021 12:52:49 PM
+end bulkcopy process
+
+Date Time :5/12/2021 12:57:38 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 12:57:38 PM
+file opening started.. 
+
+Date Time :5/12/2021 12:57:40 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 12:57:40 PM
+ datatable loading complete
+
+Date Time :5/12/2021 12:57:40 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 12:57:40 PM
+start bulkcopy process
+
+Date Time :5/12/2021 12:57:44 PM
+end bulkcopy process
+
+Date Time :5/12/2021 12:59:40 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 12:59:41 PM
+file opening started.. 
+
+Date Time :5/12/2021 12:59:42 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 12:59:42 PM
+ datatable loading complete
+
+Date Time :5/12/2021 12:59:42 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 12:59:42 PM
+start bulkcopy process
+
+Date Time :5/12/2021 12:59:47 PM
+end bulkcopy process
+
+Date Time :5/12/2021 1:01:17 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 1:01:17 PM
+file opening started.. 
+
+Date Time :5/12/2021 1:01:18 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 1:01:18 PM
+ datatable loading complete
+
+Date Time :5/12/2021 1:01:18 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 1:01:18 PM
+start bulkcopy process
+
+Date Time :5/12/2021 1:01:22 PM
+end bulkcopy process
+
+Date Time :5/12/2021 1:03:59 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 1:03:59 PM
+file opening started.. 
+
+Date Time :5/12/2021 1:04:00 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 1:04:00 PM
+ datatable loading complete
+
+Date Time :5/12/2021 1:04:00 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 1:04:00 PM
+start bulkcopy process
+
+Date Time :5/12/2021 1:04:06 PM
+end bulkcopy process
+
+Date Time :5/12/2021 1:04:58 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 1:04:59 PM
+file opening started.. 
+
+Date Time :5/12/2021 1:05:00 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 1:05:00 PM
+ datatable loading complete
+
+Date Time :5/12/2021 1:05:00 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 1:05:00 PM
+start bulkcopy process
+
+Date Time :5/12/2021 1:05:05 PM
+end bulkcopy process
+
+Date Time :5/12/2021 1:06:08 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 1:06:09 PM
+file opening started.. 
+
+Date Time :5/12/2021 1:06:10 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 1:06:10 PM
+ datatable loading complete
+
+Date Time :5/12/2021 1:06:10 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 1:06:10 PM
+start bulkcopy process
+
+Date Time :5/12/2021 1:06:14 PM
+end bulkcopy process
+
+Date Time :5/12/2021 1:24:36 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 1:24:36 PM
+file opening started.. 
+
+Date Time :5/12/2021 1:24:37 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 1:24:37 PM
+ datatable loading complete
+
+Date Time :5/12/2021 1:24:37 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 1:24:37 PM
+start bulkcopy process
+
+Date Time :5/12/2021 1:24:46 PM
+end bulkcopy process
+
+Date Time :5/12/2021 1:26:17 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 1:26:18 PM
+file opening started.. 
+
+Date Time :5/12/2021 1:26:19 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 1:26:19 PM
+ datatable loading complete
+
+Date Time :5/12/2021 1:26:19 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 1:26:19 PM
+start bulkcopy process
+
+Date Time :5/12/2021 1:26:24 PM
+end bulkcopy process
+
+Date Time :5/12/2021 1:35:49 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 1:35:49 PM
+file opening started.. 
+
+Date Time :5/12/2021 1:35:51 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 1:35:51 PM
+ datatable loading complete
+
+Date Time :5/12/2021 1:35:51 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 1:35:51 PM
+start bulkcopy process
+
+Date Time :5/12/2021 1:35:55 PM
+end bulkcopy process
+
+Date Time :5/12/2021 1:41:37 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 1:41:38 PM
+file opening started.. 
+
+Date Time :5/12/2021 1:41:38 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 1:41:39 PM
+ datatable loading complete
+
+Date Time :5/12/2021 1:41:39 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 1:41:39 PM
+start bulkcopy process
+
+Date Time :5/12/2021 1:41:46 PM
+end bulkcopy process
+
+Date Time :5/12/2021 5:47:58 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 5:47:59 PM
+file opening started.. 
+
+Date Time :5/12/2021 5:48:00 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 5:48:01 PM
+ datatable loading complete
+
+Date Time :5/12/2021 5:48:01 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 5:48:01 PM
+start bulkcopy process
+
+Date Time :5/12/2021 5:48:04 PM
+end bulkcopy process
+
+Date Time :5/12/2021 5:50:45 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 5:50:45 PM
+file opening started.. 
+
+Date Time :5/12/2021 5:50:46 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 5:50:46 PM
+ datatable loading complete
+
+Date Time :5/12/2021 5:50:46 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 5:50:46 PM
+start bulkcopy process
+
+Date Time :5/12/2021 5:50:49 PM
+end bulkcopy process
+
+Date Time :5/12/2021 6:11:10 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 6:11:10 PM
+file opening started.. 
+
+Date Time :5/12/2021 6:11:11 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 6:11:11 PM
+ datatable loading complete
+
+Date Time :5/12/2021 6:11:11 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 6:11:11 PM
+start bulkcopy process
+
+Date Time :5/12/2021 6:11:14 PM
+end bulkcopy process
+
+Date Time :5/12/2021 6:13:15 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 6:13:15 PM
+file opening started.. 
+
+Date Time :5/12/2021 6:13:16 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 6:13:16 PM
+ datatable loading complete
+
+Date Time :5/12/2021 6:13:16 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 6:13:16 PM
+start bulkcopy process
+
+Date Time :5/12/2021 6:13:19 PM
+end bulkcopy process
+
+Date Time :5/12/2021 6:28:49 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 6:28:49 PM
+file opening started.. 
+
+Date Time :5/12/2021 6:28:50 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 6:28:50 PM
+ datatable loading complete
+
+Date Time :5/12/2021 6:28:50 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 6:28:50 PM
+start bulkcopy process
+
+Date Time :5/12/2021 6:29:18 PM
+end bulkcopy process
+
+Date Time :5/12/2021 6:33:56 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 6:33:56 PM
+file opening started.. 
+
+Date Time :5/12/2021 6:33:57 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 6:33:58 PM
+ datatable loading complete
+
+Date Time :5/12/2021 6:33:58 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 6:33:58 PM
+start bulkcopy process
+
+Date Time :5/12/2021 6:34:01 PM
+end bulkcopy process
+
+Date Time :5/12/2021 6:38:02 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 6:38:02 PM
+file opening started.. 
+
+Date Time :5/12/2021 6:38:03 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 6:38:03 PM
+ datatable loading complete
+
+Date Time :5/12/2021 6:38:03 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 6:38:03 PM
+start bulkcopy process
+
+Date Time :5/12/2021 6:38:07 PM
+end bulkcopy process
+
+Date Time :5/12/2021 6:41:24 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 6:41:24 PM
+file opening started.. 
+
+Date Time :5/12/2021 6:41:25 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 6:41:25 PM
+ datatable loading complete
+
+Date Time :5/12/2021 6:41:25 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 6:41:25 PM
+start bulkcopy process
+
+Date Time :5/12/2021 6:41:28 PM
+end bulkcopy process
+
+Date Time :5/12/2021 6:43:22 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 6:43:50 PM
+file opening started.. 
+
+Date Time :5/12/2021 6:43:51 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 6:43:51 PM
+ datatable loading complete
+
+Date Time :5/12/2021 6:43:58 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 6:43:58 PM
+start bulkcopy process
+
+Date Time :5/12/2021 6:44:01 PM
+end bulkcopy process
+
+Date Time :5/12/2021 6:46:26 PM
+sp spGetFileSetId completed
+
+Date Time :5/12/2021 6:46:38 PM
+file opening started.. 
+
+Date Time :5/12/2021 6:46:40 PM
+ reading excel file for datatable
+
+Date Time :5/12/2021 6:46:40 PM
+ datatable loading complete
+
+Date Time :5/12/2021 6:46:44 PM
+start datatable error checking for valid data
+
+Date Time :5/12/2021 6:46:44 PM
+start bulkcopy process
+
+Date Time :5/12/2021 6:46:47 PM
+end bulkcopy process

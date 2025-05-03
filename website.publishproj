@@ -18,8 +18,8 @@ Copyright (C) Microsoft Corporation. All rights reserved.
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{9e8a278d-9088-447a-8238-8d8b5a7c9714}</ProjectGuid>
     <SourceWebPhysicalPath>$(MSBuildThisFileDirectory)</SourceWebPhysicalPath>
-    <SourceWebVirtualPath>/LivePortal</SourceWebVirtualPath>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <SourceWebVirtualPath>/TASProject</SourceWebVirtualPath>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <SourceWebProject>
     </SourceWebProject>
     <SourceWebMetabasePath>

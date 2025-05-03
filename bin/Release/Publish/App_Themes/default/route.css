@@ -1,0 +1,101 @@
+﻿.row{width:100%;}
+.col-1{ width:25%;}
+.col-2{ width:33.33%;}
+.col-3{ width:50%;}
+.col-4{ width:66.67%;}
+.col-5{ width:75%;}
+.col-6{ width:90%;}
+.col-7{ width:10%;}	
+.left{ float:left;}		
+.right{ float:right;}	
+
+.page-title{
+	background:#f5f5f5;
+	border-bottom:1pt solid #e3e3e3;
+	padding:4pt 0;
+	text-align:right;
+	}
+.block{width:97%; 
+	height:auto; 
+	margin:8pt auto 0; 
+	padding:0;
+	padding:4pt 0 8pt;
+	display:block;
+	background:url("../../NewImages/devider.png") bottom center repeat-x;
+	}
+.blockButtons{width:97%; 
+	height:auto; 
+	margin:8pt auto 0; 
+	padding:0;
+	display:block;
+	}
+.heading-lineRoute{
+	font-size:15px;
+	color:#000;
+	padding:0;
+	}
+.button-block{
+	width:auto; 
+	height:auto; 
+	text-align:right;
+	}	
+.buttonBlue {
+	padding:5px 15px;	
+	font:normal 10pt Arial, Helvetica, sans-serif;
+	text-align:center; 
+	color:#FFF;
+	background:#0045cc;
+	border:1px solid #003D59;
+	cursor:pointer;
+	margin:0 6px 0 0;
+	display:inline-block;
+	*display:inline; 
+	text-decoration:none;
+	width:auto;
+	}
+.buttonBlue:hover {
+	background:#14A130; color:#FFF;}
+
+table.gridtable {
+	border-collapse: collapse;
+	margin:0 auto;
+	width:100%;
+	font-size:10pt;
+}            
+table.gridtable th {
+	padding: 6px 10px;
+	/*border: 1px solid #DBDBDB;*/
+	background: #F9F9F9;
+	color:#3189C8;
+	text-align:left;
+}
+table.gridtable td {
+	padding: 6px 10px;
+	/*border: 1px solid #DBDBDB;*/
+	border:none;
+	color:#656565;
+}
+table.nogridtable, table.nogridtable th, table.nogridtable td {
+	border: none;
+	padding: 1px 6px;
+}
+table.gridtableBorder {
+	border-collapse: collapse;
+	margin:0 auto;
+	width:100%;
+	font-size:10pt;
+	
+}            
+table.gridtableBorder th {
+	padding: 6px 10px;
+	border: 1px solid #DBDBDB;
+	background: #F9F9F9;
+	color:#3189C8;
+	text-align:left;
+}
+table.gridtableBorder td {
+	padding: 6px 10px;
+	border: 1px solid #DBDBDB;
+	
+	color:#656565;
+}

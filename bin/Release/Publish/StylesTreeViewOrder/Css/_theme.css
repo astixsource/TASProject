@@ -1,0 +1,587 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+
+body, html { height: 100%; }
+
+/*body
+{
+    background:url("../../Images/bg-body.gif") repeat !important;
+	width:100%;
+	margin:0px;
+	padding:0px;
+	font:normal 10pt 'arialnarrow';
+	font-family: 'robotolight';
+	font-size:10pt;
+	color:#5b6367;
+	max-height:100%;
+	overflow-y:auto;
+}*/
+.clear{ 
+	clear:both; 
+	padding:0px; 
+	margin:0px; 
+	width:100%; 
+	height:1px; 
+	}	
+
+.full-screen-background-image {
+	z-index: -999;
+	min-height: 100%;
+	min-width: 1024px;
+	width: 100%;
+	height: auto;
+	position: fixed;
+	left: 0;
+  }	
+ .conatnt-wrap{
+	width:94%;
+	float:none; 
+	margin:0px auto; 
+	padding:.2em 0;
+	position:relative;
+	}
+.left{
+  float:left;
+  }		
+.right{
+  float:right;
+  }	 
+
+/*---------------------------------------------*/
+/*-------------- Header Section ---------------*/
+/*---------------------------------------------*/
+.main-header{width:100%; 
+	/*height:94px;*/ 
+	position:fixed; 
+	top:0; 
+	background:#FFF;
+	z-index:100;
+	border-bottom:1px solid #D1D1D1;
+	}
+.top-header{width:100%;
+	float:none;
+	background:#f7f7f7;
+	border-bottom:1px solid #d8d8d8;
+	}
+
+.header{
+	width:100%;
+	float:none;
+}
+
+.logoarea{ 
+	width:280px;	
+	position:absolute;
+	z-index:999;
+	left:0;
+	}
+img.logo{	
+	width:100%;
+	height:auto;
+	border:none;
+	display:block;	
+}
+.SignOut{width:auto;
+	height:auto;
+	float:right;
+	padding-right:10px;
+	position:relative;	
+	margin-top: 16px;
+	}
+
+
+/*---------------------------------------------*/
+/*------------ Contaner Section ---------------*/
+/*---------------------------------------------*/
+
+.conatnt{
+	width:100%;
+	min-height:510px;
+	/*background:url(../../Images/shadow.png) no-repeat center top;
+	z-index:10;*/
+	position:relative;
+	top:126px;
+}
+	
+.login-left{ 
+	width:515px;
+	float:left;	
+	height:auto;
+	margin-left:75px;	
+	}	
+		
+.login-right{ 
+	width:300px;
+	float:left;
+	height:auto;
+	}	
+
+.leftpanel {
+    left: 0;
+    top:125px;
+	/*top:0;
+    background: url("../../Images/bg-body.gif") repeat #edeceb;*/
+    position: fixed;
+    width: 270px;
+    min-height: 100%;    
+    /*z-index:5;*/    
+    border-right:1px solid #d1d1d1;
+    background:#edeceb;
+}
+.leftpanel2 {
+    width: 36px;
+}
+.menutoggle {  
+	background: url(../../NewImages/double.jpg) no-repeat;
+    cursor: pointer;
+    width: 30px;
+	height:28px;
+	position:absolute;	
+	right:0;
+}
+
+
+/*----------------------------------------------------------*/
+/*--------------   For Collapse CSS   ----------------------*/
+/*----------------------------------------------------------*/
+
+.leftpanel-menu{
+	width:100%;
+	height:auto;
+	float:left;
+    position:relative;
+}
+.leftMenu-headding{
+	height:45px;
+	line-height:45px;
+	background:#26A6E7;
+	color:#FFF;
+	font-family: 'avantgarde_bk_btbook';
+	font-size:16px;
+	padding-left:15px;
+	position:fixed;
+	z-index:2000;
+	max-width:100%;
+    width:255px;
+}
+
+.leftMenu-headding2{
+	height:45px;
+	line-height:45px;
+	background:#26A6E7;
+	color:#FFF;
+	font-family: 'avantgarde_bk_btbook';
+	font-size:16px;
+	padding-left:15px;
+	/*z-index:2000;
+	max-width:100%;
+	position:fixed;
+    width:310px;*/
+}
+	
+/*--------------   For Collapse CSS   ----------------------*/    
+ul.accordion-title {
+    margin:0;
+    padding:0;
+    list-style:none;    
+    height:auto;
+    overflow-y:auto;
+    position:relative;
+    top:52px;
+}
+ul.accordion-title li > a {
+    float: none;
+    /*margin:0 4px;*/
+    padding: 6px 16px;
+    color:#3f3f3f;
+    border-bottom:1px solid #d1d1d1;
+    display:block;
+    text-decoration:none;                   
+    position:relative;
+    }
+                
+ul.accordion-title li > a:hover
+{
+    color:#fff;
+    background-color:#2e3e4e;    
+}
+            
+ul.accordion-title li > a span {
+    display:inline-block;
+    display:inline;
+    text-align:left;
+}   
+ul.accordion-title li > a.active{     
+    padding: 6px 16px;
+    color:#fff;
+    background:#26a6e7;
+    border-left:5px solid #47B75D;
+    border-bottom:1px solid #5C7B98;
+}
+ul.accordion-title li > a >.marker {
+    width: 14px;
+    height: 14px;
+    position: absolute;
+    right: 12px;
+    top: 9px;
+    background: url(../../NewImages/open.gif) no-repeat;
+}
+ul.accordion-title li > a.active .marker {
+    background: url(../../NewImages/close.gif) no-repeat;
+}
+                
+ul.accordion-body{
+                /*background:#293745;*/
+                border-bottom:1px solid #d1d1d1;
+                margin:0;
+                padding:0;
+                list-style:none;
+    }
+ul.accordion-body li > a{                
+                padding: 6px 26px;
+                font-size:8.5pt;
+                color:#293745;
+                cursor:pointer;
+                border-bottom:1px solid #d1d1d1;
+                }              
+/*ul.accordion-body li:last-child{border-bottom:none;}*/
+ul.accordion-body li > a.active{  
+                background:#26a6e7 url(../../NewImages/li-arrow.png) no-repeat left;
+                }
+
+ul.accordion-body-parent{
+                border-bottom:1px solid #d1d1d1;
+                margin:0;
+                padding:0;
+                list-style:none;
+    }
+ul.accordion-body-parent li > a{                
+        padding: 6px 16px;
+        font-size:8.5pt;
+        color:#293745;
+        cursor:pointer;
+        border-bottom:1px solid #d1d1d1;
+        }
+
+
+.mainpanel {
+    margin-left: 272px;
+    height:100%;
+    /*height:465px;*/
+	position: relative;
+	/*z-index:-10;*/
+}
+
+.mainpanel2 {
+    margin-left: 38px;
+}
+
+
+.footer{
+	width:100%;
+	height:15px;
+	background:#41586e;
+	position:fixed;
+	bottom:0;
+	z-index:10;
+	border-top:1px solid #607384;
+	}
+	
+/*----------------------------------------------------------*/
+/*------------		 Login From Css   ----------------------*/
+/*----------------------------------------------------------*/
+
+.loginfrm{ 
+	width:90%; 
+	height:auto; 
+	margin:85px auto 0; 
+	padding:10px 0; 
+	border:1px solid #d1d1d1;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px #333;
+    text-align: left;
+	background:url(../../Images/Logingb.png);
+	}
+
+.login-box{ padding:0 40px;}
+	
+img.largeUser-icon{ 
+	border:none; 
+	width:auto;
+	float:left; }	
+	
+.login-header {
+    padding: 0 15px 10px;
+	margin:0;	
+	background:url(../../Images/linedevider1.png) no-repeat bottom;
+	}
+.headingLeft{
+	float:left;	
+	width:auto; 
+	margin:20px 10px 0;
+	}	
+.login-header span{
+	color:#7C7C7C;
+	font-size:12pt;
+	}
+.login-header h3 {
+    color:#FFF; 
+	margin:0; 
+	padding:0; 
+	font-size:14pt; 
+	}
+	
+.login-content {
+	padding:12px 0px; 
+	margin:0; 
+	}		
+.textbox-wrap {
+   padding:0;
+   margin:10px 0;
+   border:1px solid #BCBCBC;
+   background:#FFF ; /*transparent*/
+   }
+   
+.form-control {
+	background: transparent;
+	float:left; 
+	border:none;
+	outline: 0 none;
+	display: block; 
+	text-align:left;
+	padding:7px 2%;
+	color:#555555; 
+	width:66%;	
+	}
+.form-control:focus {
+    border-color: #66AFE9; outline: 0 none; color: #555555;}
+	
+.icon-bg{
+	width:21%;
+	padding:8px 4%;
+	color:#FFF;
+	float:left; 
+	display: block; 
+	text-align:left;
+	margin-top:1px;
+	background:#006B9F;
+	}
+
+.login-footer {
+	padding: 10px 20px 0;text-align:right; background:url(../../Images/linedevider1.png) no-repeat top;	}
+	
+/* Login button
+.button {
+	padding:6px 15px;	
+	font:normal 11pt Arial, Helvetica, sans-serif;
+	text-align:center; 
+	color:#FFF;
+	background:#14A130;
+	border:1px solid #2E3E4E;
+	cursor:pointer;
+	margin:0 6px 0 0;
+	display:inline-block;
+	*display:inline; 
+	text-decoration:none;
+	width:auto;
+	}
+.button:hover {
+	background:#006B9F; color:#FFF;}	 */
+	
+/*---------------------------------------------------------------*/
+/*--------------   For Internal Page CSS   ----------------------*/
+/*---------------------------------------------------------------*/
+
+.page-title{
+	background:#f6f6f6;
+	border-bottom:1px solid #e4e4e4;
+	line-height:34px;
+	height:34px;
+	padding:0 15px;
+	font-family: 'avantgarde_bk_btbook';
+	}
+
+.page-title span{color:#14A130; padding-left:5px;}
+
+.heading-line{
+	border-bottom:1px solid #e4e4e4;
+	line-height:60px;
+	height:60px;
+	padding-left:15px;
+	font-size:22px;
+	font-family: 'avantgarde_bk_btbook';
+	color:#666;
+	}
+.heading-line2{
+	/*border-bottom:1px solid #e4e4e4;*/
+	line-height:22px;
+	height:22px;
+	padding:6px 15px 3px 15px;
+	font-size:14px;
+	font-family: 'avantgarde_bk_btbook';
+	color:#0083C5;
+    background:#F8F8F8;
+	}
+
+.row{width:100%;}
+.col-1{ width:25%;}
+.col-2{ width:33.33%;}
+.col-3{ width:50%;}
+.col-4{ width:66.67%;}
+.col-5{ width:75%;}
+
+.block{
+	padding:2pt 15pt;
+    margin:0; 
+	float:none;
+	}
+.auto-block{
+	padding:0 10pt;
+	text-align:center; 
+	border:none;
+	margin:0;
+	display:inline-block;
+	*display:inline; 
+	width:auto;
+	border-right:1pt solid #D6D6D6;
+	}
+		
+img.fullimg{	
+	width:98%;
+	height:auto;
+	/*border:1pt solid #D6D6D6;*/
+	padding:1%;
+	display:block;
+}
+	
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
+	font-family:avantgarde_bk_btbook;
+	font-weight:normal;
+	color:inherit;
+	margin:0;
+	padding:0 0 0 5px;
+	}
+p{
+	line-height:16pt; 
+	padding:0; 
+	margin:10pt 0 0;
+	text-align:justify;	
+	font-weight:lighter;
+	}		
+/*DL, DT, DD TAGS LIST DATA*/
+dl {
+    margin:0;
+    padding:10pt 0;
+} 
+dl dt {      
+    margin:0;
+    padding:2pt 0 0 10pt; 
+	font-family:'avantgarde_bk_btbook';
+    font-weight:500;
+	font-size:18px;
+	background:#efefef;   
+} 
+dl dd {
+    margin:0;
+    padding:2pt 0 10pt 20pt;
+}
+	
+
+table.gridtable {
+	border-collapse: collapse;
+	margin:0 auto;
+	width:100%;
+}            
+table.gridtable th {
+	padding: 8px 10px;
+	border: 1px solid #DBDBDB;
+	background: #F9F9F9;
+	color:#3189C8;
+	text-align:left;
+}
+table.gridtable td {
+	padding: 8px 10px;
+	border: 1px solid #DBDBDB;
+	background-color: ;
+}
+
+table.nogridtable,
+table.nogridtable td,
+table.nogridtable th {
+	border: none;
+	padding: 1px 6px;
+	}
+.light_blue-box{background:#EAF2F5; border:1px solid #DBDBDB; padding:10pt;}	
+span.span{ color:#3189C8; font-weight:bold;}		
+
+
+/*--------------   For Nav CSS   ----------------------*/	
+input.input {
+padding:6pt 10pt;
+border:2px solid #0CACE8;
+width: 86%;
+float:left;
+}
+/*input[type="submit"],input[type="text"]*/
+input.submit {
+background: #0CACE8;
+border: medium none;
+color: #FFFFFF;
+cursor: pointer;
+padding:8pt 5pt;
+width:auto;
+float:left;
+}
+
+
+table.nav {
+	border-collapse: collapse;
+	margin:0 auto;
+	width:100%;
+}
+table.nav td {
+	padding: 8px 20px;
+	border-left:none !important;
+	border-right:none !important;
+	border:1px solid #5C7B98;
+	background:#293745;
+	color:#d3dce4;
+}
+		
+
+.rightMenu {
+    position:absolute;
+    right:9px;
+    top:54px;
+    z-index:100;
+}
+.side{
+    float:right;
+    width:28px;
+    height:30px;
+    background: url(../../Images/self-smoll_icon.png) no-repeat;
+    cursor:pointer;
+}
+
+.slidable{
+    float:right;
+    height:500px;
+    background:#fff;
+    width:200px;
+}
+
+img
+{
+    cursor:pointer;    
+}
+
+a
+{
+    color:Black;    
+}
+
+#cphLeft_upd
+{
+    margin:10px 0 0 0;    
+}

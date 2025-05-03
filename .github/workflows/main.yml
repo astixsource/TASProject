@@ -1,0 +1,25 @@
+name: Deploy Pre-Published ASP.NET Files to Azure
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+
+      #- name: List pre-published files (for debug)
+       # run: dir bin\Release\publish /s
+
+      - name: Deploy to Azure Web App
+        uses: azure/webapps-deploy@v3
+        with:
+          app-name: 'TASWebApp'  # Replace with your Azure Web App name
+          slot-name: 'Production'
+          package: bin\Release\publish
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4F0EB2BB411740919E8C01B334C556B2 }}

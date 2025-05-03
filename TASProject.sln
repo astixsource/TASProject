@@ -1,0 +1,43 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TasProject", ".", "{DD2A6F66-E704-A4E3-F26C-7D69237CCB81}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63492"
+		Debug.AspNetCompiler.PhysicalPath = "TasProject\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63492\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63492"
+		Release.AspNetCompiler.PhysicalPath = "TasProject\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63492\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63492"
+		SlnRelativePath = "TasProject\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2A6F66-E704-A4E3-F26C-7D69237CCB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2A6F66-E704-A4E3-F26C-7D69237CCB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2A6F66-E704-A4E3-F26C-7D69237CCB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2A6F66-E704-A4E3-F26C-7D69237CCB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87B101FE-E9F9-4C37-A96C-32839C2BBB96}
+	EndGlobalSection
+EndGlobal

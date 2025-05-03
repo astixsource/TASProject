@@ -1,0 +1,24 @@
+﻿#dvBanner{
+    position: fixed; 
+    z-index: 99;
+    width:100%;
+}
+.L_header > img{
+    height:85px;
+    float:left;
+    padding:6px 0 0 50px;
+}
+.R_header > img{
+    height:96px;
+    float:right;
+}
+#Logout_bar{
+    background:#23AED8;
+    padding:2px 0;
+    width:100%;
+    border-bottom:4px solid #273e88;
+}
+.conatnt{
+    top:126px;
+    position:relative;
+}

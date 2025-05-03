@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterTelecaller.master.cs" Inherits="ManageOrder_MasterTelecaller" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+       <script>
+           history.pushState(null, null, document.URL);
+           window.addEventListener('popstate', function () {
+               history.pushState(null, null, document.URL);
+           });
+       </script>
+    </asp:ContentPlaceHolder>
+</head>
+<body oncontextmenu="return false;" id="orderpunchingbody">
+    <form id="form1" runat="server">
+         <asp:ScriptManager ID="ScriptManager1" runat="server" EnablePageMethods="true" EnablePartialRendering="true" AsyncPostBackTimeout="3600">
+            
+        </asp:ScriptManager>
+    <div>
+        <asp:ContentPlaceHolder id="cphRight" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

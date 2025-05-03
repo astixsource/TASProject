@@ -1,0 +1,312 @@
+﻿/*New css Add*/
+
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:12px;
+    color:#5b6367;
+    margin: 0;
+    padding: 0;
+    max-height:100%;
+	overflow-y:auto;
+}
+
+@font-face {
+    font-family: 'indian_rupeeregular';
+    src: url('../fonts/indianrupee.eot');
+    src: url('../fonts/indianrupee.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/indianrupee.woff2') format('woff2'),
+         url('../fonts/indianrupee.woff') format('woff'),
+         url('../fonts/indianrupee.ttf') format('truetype'),
+         url('../fonts/indianrupee.svg#indian_rupeeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+#header
+{
+    background: #FFF;
+    width: 100%;
+    border-top: 2px solid #23AED8;
+}
+#header .L_header img
+{
+    width: auto;
+    height: 115px;
+    float: left;
+    position:absolute;
+}
+#header .R_header img
+{
+    width: auto;
+    height: 81px;
+    float: right;
+}
+
+#Logout_bar
+{
+    background: #23AED8;
+    padding: 2px 0;
+    width: 100%;
+    float: left;
+    border-bottom: 4px solid #273e88;
+}
+.B_right1
+{
+    width: auto;
+    height: auto;
+    float: right;
+}
+#dvBanner
+{
+    float: left;
+    width: 100%;
+}
+#dvLeft
+{
+    float: left;
+    width: 100%;    
+    overflow-x: hidden;
+    overflow-y: auto !important;    
+}
+
+#cphLeft_DvMenu
+{
+    float: left;
+    width: 100%;       
+    overflow-x: hidden;
+    overflow-y: auto !important;
+    position:relative; 
+    width:325px; 
+    margin-top:32px;    
+}
+
+#dvtree
+{
+    float: left;
+    width: 100%;       
+    overflow-x: hidden;
+    overflow-y: auto !important;
+    position:relative; 
+    width:270px;     
+}
+
+#dvRight
+{
+    float: right;
+    width: 100%;
+}
+
+.Menu
+{
+    font: normal 11px 'HelveticaLTStdRoman' ,Arial, Helvetica, sans-serif;
+}
+.button1
+{
+    width: auto;
+    background: #273E88;
+    text-decoration: none;
+    text-align: center;
+    color: #FFF;
+    float: left;
+    margin: 3px auto;
+    padding: 3px 10px;
+    cursor: pointer;
+    display: inline-block;
+}
+.button1:hover
+{
+    background: #F6F6F6;
+    color: #81B72D;
+}
+.contextMenuItem
+{
+    background: #273E88;
+    text-align: center;
+    color: #F6F6F6;
+    float: left;
+    margin-right: 4px;
+    padding: 3px 10px;
+    cursor: pointer;
+    display: inline-block;
+}
+.contextMenuItem:hover
+{
+    background: #F6F6F6;
+    color: #81B72D;
+}
+#dvFooter
+{
+    float: left;
+    width: 100%;
+    height: 16px;
+    background: #23AED8;
+    position: fixed;
+    bottom: 0;
+}
+/*----------------------------------------------------------*/
+/*------------		 Login From Css   ----------------------*/
+/*----------------------------------------------------------*/
+
+/*.loginOuter_box{
+    width:390px; height:auto; background:#A0E4F9 url(NewImages/loginbg_footer.jpg) no-repeat bottom;padding:50px 20px 110px 20px; margin:0 auto;
+    }
+
+.loginfrm{ 
+	 margin:0; padding:10px 0; background:#F8F8F8; border:1px solid #BEBEBE; }
+
+.login-header {
+    padding: 0px 20px; margin:0 0 10px 0; text-align:center; }
+.login-header div{
+    border-bottom:1px solid #BEBEBE; font:normal 20px/40px Arial, Helvetica, sans-serif;color:#273E88; }
+        
+.login-content {
+	padding:0 20px 5px 20px;}		
+	
+.textbox-wrap {
+    border-left: 5px solid #F8F8F8; padding: 10px 15px;}
+.textbox-wrap.focused {
+    background-color:#BFEDFA; border-left-color:#273E88;}
+.textbox-wrap .input-name{
+	padding-bottom:6px;	font-size:10pt;	color:#273E88; text-align:left;}
+	
+.form-control {
+    background-color:#FFFFFF; border:1px solid #CCCCCC; display: block; font-size: 14px; padding: 7px 2% 7px 14%; vertical-align: middle;width:84%;}
+.form-control:focus {
+    border-color: #66AFE9; outline: 0 none; color: #555555;}
+
+	
+.user{background:url(NewImages/user_icon.png) no-repeat #FFFFFF;
+	}
+.password{background:url(NewImages/pwd_icon.png) no-repeat #FFFFFF;
+	}	
+	
+.login-footer {
+	padding: 2px 20px;text-align:center; border-top:1px solid #D4DEDF;	}*/
+.button {
+	padding:5px 15px;font-size:10pt; font-style:italic; font-weight:bold;color:#fff;background:#23AED8;border-bottom:5px solid #273E88 !important;border:none;cursor:pointer;margin:10px 6px 0 0;display:inline-block;*display:inline; text-decoration:none;}
+.button:hover {
+	background:#273E88; border-bottom:5px solid #23AED8 !important;}
+.tabHeading
+	{
+	    margin:5px;
+	    padding:5pt 10pt;
+	background: #F0F0F0;
+    color: #273E88;
+    font-size:15px;
+    font-weight:bold;
+    border-top:1px solid #A6A8AD;
+	}
+	.tblDesign
+	{
+	    font-size:12px;
+	    width:60%;
+	    table-layout:auto;
+	}
+	.tblDesign td
+	{
+	    background-color: #E3F2FB;
+	    padding:3px;
+	    height:20px;
+	}
+	#dvSave
+	{
+	   float:left;
+	   width:55%;
+	   margin-bottom:50px;
+	   display:none;
+	}
+	#dvBasicDetails,
+    #dvPriceRule,
+    #dvProductCovered
+	{
+	    float:left;
+	    /*width:100%;*/
+	}
+     #dvSlabs
+	{
+	    /*float:left;*/
+	    width:100%;
+	}
+
+	#dvChannelMapping
+	{
+	    float:left;
+	    /*width:100%;*/
+	}
+	#dvPersonMapping
+	{
+	    float:left;
+	    /*width:100%;*/
+	}
+
+    .csr
+    {
+        cursor:pointer;    
+    }
+    
+    .mrtp5px
+    {
+        margin:5px 0 0 0;    
+    }
+	#dvRouteMapping
+	{
+	    float:left;
+	    width:100%;
+	}
+	#dvStores
+	{
+	    float:left;
+	    width:100%;
+	    height:20%;
+	}
+	#tblStores tr:hover
+	{
+	    background-color:#e3f2fb;
+	}
+	#dvCreatePlan
+	{
+	    float:left;
+	    width:100%;
+	}
+#dvStoredRoutes
+	{
+	    float:left;
+	    width:100%;
+	}
+.tblViewRoute
+	{
+	    font-size:12px;
+	    width:60%;
+	    table-layout:fixed;
+	}
+	.tblViewRoute td
+	{
+	    background-color: #E3F2FB;
+	    padding:3px;
+	    height:20px;
+	    font-weight:bold;
+	}
+	#dvViewRouteDetails
+	{
+	    float:left;
+	    width:100%;
+	}
+	.tblDesignRoutes
+	{
+	    font-size:12px;
+	    width:70%;
+	    table-layout:auto;
+	}
+	.tblDesignRoutes td
+	{
+	    background-color: #E3F2FB;
+	    padding:3px;
+	    height:20px;
+	}
+	.blankHeight
+	{
+	    height:5px;
+	    width:100%;
+	}	

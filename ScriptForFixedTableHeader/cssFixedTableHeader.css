@@ -1,0 +1,64 @@
+﻿
+table.fixed_header {
+    width: 100%;
+    margin: auto;
+    border: 1px solid grey;
+}
+
+    table.fixed_header > thead th, table.fixed_header > thead td {
+        border:none;
+        padding: 3px 2px 3px 2px !important;
+         border-left: 1px solid lightgrey !important;
+        border-bottom: 1px solid lightgrey !important;
+        text-align: left !important;
+        vertical-align: middle;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        hyphens: auto;
+        font-size: 8.5pt !important;
+    }
+
+    table.fixed_header > thead, table.fixed_header > tfoot {
+        background: #6086b0;
+        display: table;
+        width: 100%;
+        color: #ffffff;
+    }
+
+    table.fixed_header > tbody {
+        height: 300px;
+        overflow: auto;
+        overflow-x: hidden;
+        display: block;
+        width: 100%;
+        table-layout: fixed;
+    }
+
+        table.fixed_header > tbody tr {
+            display: table;
+            width: 100%;
+            table-layout: fixed;
+        }
+
+        table.fixed_header > tbody td {
+            border:none;
+            border-left: 1px solid lightgrey !important;
+            border-bottom: 1px solid lightgrey !important;
+            padding: 2px !important;
+            vertical-align: middle !important;
+            overflow-wrap: break-word;
+            word-wrap: break-word;
+            hyphens: auto;
+            font-size: 8pt !important;
+        }
+
+    table.fixed_header > tfoot td {
+        border-top: 1px solid lightgrey;
+        padding: 2px !important;
+        vertical-align: middle !important;
+        font-weight: bold;
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        hyphens: auto;
+        font-size: 8.5pt !important;
+    }
